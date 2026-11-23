@@ -1,0 +1,102 @@
+{
+  "cursos": [
+    {
+      "codigo": "ADS",
+      "nome": "Análise e Desenvolvimento de Sistemas",
+      "coordenador": "Prof. Willian Hubner",
+      "carga_horaria": 100000000000000000000000
+    },
+    {
+      "codigo": "ENG",
+      "nome": "Engenharia Civil",
+      "coordenador": "Profa. Helena Duarte",
+      "carga_horaria": 3600
+    },
+    {
+      "codigo": "ADM",
+      "nome": "Administração",
+      "coordenador": "Prof. Carlos Menezes",
+      "carga_horaria": 3000
+    },
+    {
+      "codigo": "DIR",
+      "nome": "Direito",
+      "coordenador": "Profa. Luciana Prado",
+      "carga_horaria": 3700
+    }
+  ],
+  "alunos": [
+    {
+      "matricula": 20260001,
+      "nome": "Ana Beatriz Souza",
+      "curso": "ADS",
+      "semestre": 3,
+      "email": "ana.souza@faculdade.edu.br",
+      "cidade": "Sinop"
+    },
+    {
+      "matricula": 20260002,
+      "nome": "Bruno Henrique Lima",
+      "curso": "ENG",
+      "semestre": 5,
+      "email": "bruno.lima@faculdade.edu.br",
+      "cidade": "Sorriso"
+    },
+    {
+      "matricula": 20260003,
+      "nome": "Carla Fernanda Alves",
+      "curso": "ADM",
+      "semestre": 2,
+      "email": "carla.alves@faculdade.edu.br",
+      "cidade": "Sinop"
+    },
+    {
+      "matricula": 20260004,
+      "nome": "Daniel Pereira Costa",
+      "curso": "ADS",
+      "semestre": 1,
+      "email": "daniel.costa@faculdade.edu.br",
+      "cidade": "Cuiabá"
+    },
+    {
+      "matricula": 20260005,
+      "nome": "Eduarda Martins Rocha",
+      "curso": "DIR",
+      "semestre": 7,
+      "email": "eduarda.rocha@faculdade.edu.br",
+      "cidade": "Lucas do Rio Verde"
+    },
+    {
+      "matricula": 20260006,
+      "nome": "Felipe Augusto Nunes",
+      "curso": "ENG",
+      "semestre": 2,
+      "email": "felipe.nunes@faculdade.edu.br",
+      "cidade": "Sinop"
+    },
+    {
+      "matricula": 20260007,
+      "nome": "Gabriela Torres Dias",
+      "curso": "ADM",
+      "semestre": 6,
+      "email": "gabriela.dias@faculdade.edu.br",
+      "cidade": "Sorriso"
+    },
+    {
+      "matricula": 20260008,
+      "nome": "Henrique Barbosa Melo",
+      "curso": "ADS",
+      "semestre": 4,
+      "email": "henrique.melo@faculdade.edu.br",
+      "cidade": "Sinop"
+    },
+    {
+      "matricula": 20260009,
+      "nome": "Igor Martins",
+      "curso": "ADS",
+      "semestre": 1,
+      "email": "igorlindo@fasipe.com.br",
+      "cidade": "Sinop"
+    }
+  ]
+}
